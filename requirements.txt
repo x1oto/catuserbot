@@ -1,7 +1,6 @@
 aiofiles
 aiohttp
 apscheduler
-Aptfile
 cairosvg
 cloudscraper
 colour
